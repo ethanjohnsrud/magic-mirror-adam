@@ -1,3 +1,12 @@
 [submodule "modules/MMM-JokeAPI"]
 	path = modules/MMM-JokeAPI
 	url = https://github.com/Kreshnik/MMM-JokeAPI.git
+[submodule "modules/MMM-Reddit"]
+	path = modules/MMM-Reddit
+	url = https://github.com/ethanjohnsrud/MMM-Reddit.git
+[submodule "modules/MMM-MyScoreboard"]
+	path = modules/MMM-MyScoreboard
+	url = https://github.com/jclarke0000/MMM-MyScoreboard.git
+[submodule "modules/MMM-Jast"]
+	path = modules/MMM-Jast
+	url = https://github.com/jalibu/MMM-Jast.git
