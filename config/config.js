@@ -32,9 +32,6 @@ let config = {
 
 	modules: [
 		{
-			module: "alert",
-		},
-		{
 			module: "MMM-Reddit",
 			position: "top_right",
 			config: {
@@ -91,33 +88,32 @@ let config = {
 			  colored: true,
 			  viewStyle: "mediumLogos",
 			  sports: [
-				{
-				  league: "NHL",
-				  groups: ["Atlantic"]
-				},
-				{
-				  league: "NBA",
-				  teams: ["TOR"],
-				  groups: ["Pacific", "Central"]
-				},
-				{
-				  league: "MLB",
-				  teams: ["TOR", "CHW", "NYY"]
-				},
-				{
-				  league: "NFL",
-				  teams: ["BUF", "NYJ", "NYG"]
-				},
-				{
-				  league: "CFL",
-				  teams: ["TOR", "MTL", "OTT"]
-				},
-				{
-				  league: "NCAAM_MM",
-				  label: "March Madness"
-				}
-			  ]
-		  
+					{
+					league: "NHL",
+					groups: ["Atlantic"]
+					},
+					{
+					league: "NBA",
+					teams: ["TOR"],
+					groups: ["Pacific", "Central"]
+					},
+					{
+					league: "MLB",
+					teams: ["TOR", "CHW", "NYY"]
+					},
+					{
+					league: "NFL",
+					teams: ["BUF", "NYJ", "NYG"]
+					},
+					{
+					league: "CFL",
+					teams: ["TOR", "MTL", "OTT"]
+					},
+					{
+					league: "NCAAM_MM",
+					label: "March Madness"
+					}
+				],		  
 			}
 		  },
 		  {
